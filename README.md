@@ -1,2 +1,3 @@
 # auth1
 customAuthASP.NET-API
+NO USE FOR IDENTITY LIBRARY
